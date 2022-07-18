@@ -90,6 +90,7 @@
     "imurmurhash": "^0.1.4",
     "inflight": "^1.0.6",
     "inherits": "^2.0.4",
+    "inquirer": "^8.2.4",
     "is-arrayish": "^0.2.1",
     "is-core-module": "^2.9.0",
     "is-fullwidth-code-point": "^3.0.0",
