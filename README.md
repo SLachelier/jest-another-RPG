@@ -21,7 +21,7 @@ Jest Another RPG is a command-line role-playing game where users can create a ch
 1. Clone the repository:
 
 ```bash
-git clone [<repository-url>](https://github.com/SLachelier/jest-another-RPG.git)
+git clone https://github.com/SLachelier/jest-another-RPG.git
 ```
 
 2. Navigate to the project directory:
